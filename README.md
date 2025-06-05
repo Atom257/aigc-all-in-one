@@ -38,3 +38,10 @@ A collection of practical AIGC demos covering text, image, audio, video, and mul
   
 All AIGC enthusiasts, engineers, and learners are welcome to join, contribute, and collaborate!
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Atom257/aigc-all-in-one&type=Date)](https://star-history.com/#Atom257/aigc-all-in-one&Date)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Atom257/aigc-all-in-one?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Atom257/aigc-all-in-one?style=social)
+
