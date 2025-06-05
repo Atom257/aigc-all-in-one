@@ -16,6 +16,9 @@
 | text_cleaning_demo.py         | 文本清洗流程：去标点、统一大小写等                |
 | simple_sentiment_naive_bayes.py | 用朴素贝叶斯实现情感分类（正面/负面）           |
 | wordcloud_demo.py             | 高频词词云可视化                                  |
+| CNNforward.py             | CNN的简单示例，并且用numpy复现。                       |
+| DNNforward.py             | DNN的简单示例，并且用numpy复现。                        |
+| RNNforward.py             | RNN的简单示例，并且用numpy复现。                         |
 
 ---
 
